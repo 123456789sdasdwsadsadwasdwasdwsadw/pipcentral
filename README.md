@@ -10,6 +10,9 @@ Let me know if you'd like to add anything else!
 PipCentral is built to address real challenges faced by Python developers. Whether it’s managing dependencies or organizing virtual environments, this tool is crafted to save time and streamline your workflow.  
 
 ## Get Started 🚀
+```bash
+pip install -r requirements.txt
+```
 
 ```bash 
 python pipcentral.py
