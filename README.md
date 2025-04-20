@@ -1,8 +1,9 @@
 # PipCentral 🐍🚀
 
-Welcome to **PipCentral** – PipCentral is your one-stop tool for python lovers 🌟  
+![PyPI - Format](https://img.shields.io/pypi/format/pipcentral)
 
-https://img.shields.io/pypi/format/pipcentral
+
+Welcome to **PipCentral** – PipCentral is your one-stop tool for python lovers 🌟  
 
 
 ## Why I Created This: Let Me Tell You
