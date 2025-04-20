@@ -10,10 +10,14 @@ Let me know if you'd like to add anything else!
 PipCentral is built to address real challenges faced by Python developers. Whether it’s managing dependencies or organizing virtual environments, this tool is crafted to save time and streamline your workflow.  
 
 ## Get Started 🚀
+```bash
+pip install pipcentral==1.0.2
 ```
-pip install pipcentral
+## After Installation
+run this command
 
-run -> pipcentral
+```bash
+pipcentral
 ```
 
 ## Features 💡  
@@ -26,6 +30,3 @@ run -> pipcentral
 
 ## snapshots
 ![image](https://github.com/user-attachments/assets/ee271d77-3e0e-4f28-bb3f-a9ea8bb11046)
- 
-
-
