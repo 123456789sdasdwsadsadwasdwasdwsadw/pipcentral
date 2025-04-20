@@ -2,6 +2,9 @@
 
 Welcome to **PipCentral** – PipCentral is your one-stop tool for python lovers 🌟  
 
+https://img.shields.io/pypi/format/pipcentral
+
+
 ## Why I Created This: Let Me Tell You
 "When I started learning about pip, I felt overwhelmed seeing all the packages from A to Z. My eyes would hurt so much 😣. I lost count of how many times I had to use commands to check for security, vulnerabilities, and other tasks 🔄. Sometimes, I felt completely exhausted from using pip commands all the time 😫. It became really difficult to look up packages 📦."
 Let me know if you'd like to add anything else! 
