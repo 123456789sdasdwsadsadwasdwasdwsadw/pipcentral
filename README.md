@@ -10,6 +10,8 @@ PipCentral is built to address real challenges faced by Python developers. Wheth
 ```bash 
 python pipcentral.py
 ```
+## snapshots
+![image](https://github.com/user-attachments/assets/ee271d77-3e0e-4f28-bb3f-a9ea8bb11046)
 
 ## Features 💡  
 - 🛠️ **Installed Package Management**: Quickly view, update, and manage your installed Python packages.  
