@@ -10,7 +10,7 @@ PipCentral is built to address real challenges faced by Python developers. Wheth
 To get started, simply run the following:
 
 ```bash
-python pipcentral.py
+python pipcentral.py```
 
 ## Features 💡  
 - 🛠️ **Installed Package Management**: Quickly view, update, and manage your installed Python packages.  
