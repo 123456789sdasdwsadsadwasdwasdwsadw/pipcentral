@@ -1,6 +1,6 @@
 # PipCentral 🐍🚀
 
-![PyPI - Format](https://img.shields.io/pypi/format/pipcentral)
+[![PyPI Downloads](https://static.pepy.tech/badge/pipcentral)](https://pepy.tech/projects/pipcentral)  ![PyPI - Format](https://img.shields.io/pypi/format/pipcentral)
 
 
 Welcome to **PipCentral** – PipCentral is your one-stop tool for python lovers 🌟  
